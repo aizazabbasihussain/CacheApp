@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+  <Target Name="CopyDLL" AfterTargets="Build">
+    <Message Text="Executing CopyDLL task" Importance="High" />
+
+    <Copy
+      SourceFiles="$(TargetDir)$(ProjectName).dll;"
+      DestinationFolder="$(SolutionDir)\CacheApp\CacheComponents" />
+
+    <Message Text="Copied build files" Importance="High" />
+  </Target>
+</Project>

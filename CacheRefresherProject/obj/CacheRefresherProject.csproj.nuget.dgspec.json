@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\CacheRefresherProject\\CacheRefresherProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\CacheRefresherProject\\CacheRefresherProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\CacheRefresherProject\\CacheRefresherProject.csproj",
+        "projectName": "CacheRefresherProject",
+        "projectPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\CacheRefresherProject\\CacheRefresherProject.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\CacheRefresherProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AzureDevOpsTraining1993/_packaging/AzureDevOpsTraining1993/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/aizazaz400/_packaging/aizazaz400/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Domain\\Domain.csproj"
+              },
+              "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AzureDevOpsTraining1993/_packaging/AzureDevOpsTraining1993/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/aizazaz400/_packaging/aizazaz400/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Noon Assignment\\CacheApp\\SubmitPackage\\CacheApp\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/AzureDevOpsTraining1993/_packaging/AzureDevOpsTraining1993/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/aizazaz400/_packaging/aizazaz400/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

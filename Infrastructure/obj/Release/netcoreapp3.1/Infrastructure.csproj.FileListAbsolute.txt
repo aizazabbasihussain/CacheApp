@@ -1,0 +1,8 @@
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.deps.json
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\bin\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Infrastructure\obj\Release\netcoreapp3.1\Infrastructure.pdb

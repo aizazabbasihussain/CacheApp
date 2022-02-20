@@ -1,0 +1,13 @@
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\CacheRefresherProject.deps.json
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\CacheRefresherProject.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\CacheRefresherProject.pdb
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\Domain.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\Infrastructure.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\bin\Release\netcoreapp3.1\Infrastructure.pdb
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\obj\Release\netcoreapp3.1\CacheRefresherProject.csprojAssemblyReference.cache
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\obj\Release\netcoreapp3.1\CacheRefresherProject.AssemblyInfoInputs.cache
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\obj\Release\netcoreapp3.1\CacheRefresherProject.AssemblyInfo.cs
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\obj\Release\netcoreapp3.1\CacheRefresherProject.csproj.CopyComplete
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\obj\Release\netcoreapp3.1\CacheRefresherProject.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\CacheRefresherProject\obj\Release\netcoreapp3.1\CacheRefresherProject.pdb

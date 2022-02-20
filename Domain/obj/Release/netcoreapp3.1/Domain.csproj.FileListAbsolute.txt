@@ -1,0 +1,8 @@
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\bin\Release\netcoreapp3.1\Domain.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\obj\Release\netcoreapp3.1\Domain.dll
+C:\Projects\Noon Assignment\CacheApp\CacheApp\Domain\obj\Release\netcoreapp3.1\Domain.pdb
